@@ -1,0 +1,47 @@
+
+============================================================
+NEW-DONORS
+============================================================
+
+Empty Columns Removed : 15
+Duplicate Rows Removed : 0
+Invalid Emails in MailId : 2
+Invalid Mobile Numbers in Mobile1 : 25
+Invalid Mobile Numbers in Mobile2 : 11
+Invalid PAN Numbers in PAN No : 1
+Negative Amounts in Amount : 0
+
+Missing Values
+Pincode : 32
+Book No : 1
+Unnamed: 16 : 1
+Receipt Date : 21
+Amount : 1
+Instrument No : 1374
+Instrument Date : 1376
+
+Summary
+Original Rows : 1381
+Rows After Cleaning : 1381
+Original Columns : 42
+Columns After Cleaning : 27
+
+
+============================================================
+EXISTING-DONORS
+============================================================
+
+Empty Columns Removed : 12
+Duplicate Rows Removed : 0
+Negative Amounts in Amount : 0
+
+Missing Values
+Donor ID : 1
+Instrument No : 2167
+Instrument Date : 2178
+
+Summary
+Original Rows : 2208
+Rows After Cleaning : 2208
+Original Columns : 24
+Columns After Cleaning : 12
